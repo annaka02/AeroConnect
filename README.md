@@ -21,8 +21,7 @@ AéroConnect est une application web développée avec **React** qui vise à aid
 - **React.js**
 - **React Router**
 - **Bootstrap**
-- *(optionnel)* Axios pour les appels API
-- *(optionnel)* JSON Server ou Fake API pour simuler les données
+
 
 ---
 
